@@ -1,7 +1,5 @@
 # 방과후 A — 디자인 패턴 정리
 
-> 강의 자료 정리 | secng.namkung@gmail.com | https://github.com/castello/dp
-
 ---
 
 ## 1. 디자인 패턴이란?
